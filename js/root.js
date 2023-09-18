@@ -1,3 +1,5 @@
 let banco = [
-    {'nome': 'Kaique'}
+    {'nome': 'Kaique'} //JSON
 ];
+
+localStorage.setItem();
